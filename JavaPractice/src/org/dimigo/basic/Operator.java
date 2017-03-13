@@ -22,6 +22,7 @@ public class Operator {
 	 */
 	public static void main(String[] args) {
 			System.out.println("<<디미베네 연간 인건비>>");
+			
 			int a = 1700000;
 			System.out.printf("월 평균 급여 : %,d원\n", a);
 			int b = 3;
