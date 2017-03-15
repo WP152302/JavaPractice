@@ -18,7 +18,6 @@ package org.dimigo.basic;
 public class Operator {
 
 	/**
-	 * 
 	 * @param args
 	 * 
 	 */
