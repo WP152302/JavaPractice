@@ -37,6 +37,6 @@ public class PrimitiveDataType {
 		char bloodtype = 'A';
 			System.out.print("혈액형 : " + bloodtype);
 			System.out.println("형");
-	}
+	}  
 
 }
