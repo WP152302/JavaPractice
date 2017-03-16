@@ -44,9 +44,11 @@ public class Loop {
 		
 			switch (choice) {
 			case 1 :
+				a+=10;
 				System.out.printf("공격력이 증가되었습니다. 현재 공격력 : %d\n",a+10);
 				break;
 			case 2 :
+				a-=10;
 				System.out.printf("공격력이 감소되었습니다. 현재 공격력 : %d\n",a-10);
 				break;
 			case 3 :
